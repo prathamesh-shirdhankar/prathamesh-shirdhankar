@@ -8,9 +8,9 @@
 ---
 
 🚀 What I'm Learning  
-- Python (basics → advanced)  
+- Python 
 - Git & GitHub workflow  
-- HTML & Web Development (refreshing my basics)  
+- Web Development 
 
 ---
 
