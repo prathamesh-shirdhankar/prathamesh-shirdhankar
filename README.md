@@ -42,7 +42,7 @@
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-shirdhankar)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prathameshshirdhankar/)  
 - 📧 Email: **prathameshshirdhankar.dev@gmail.com**  
 
 ---
