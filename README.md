@@ -1,5 +1,4 @@
-````markdown
-<div align="center">
+ <div align="center">
 
 <br/>
 
@@ -58,8 +57,6 @@ Currently looking for **entry-level Python / Backend Development or Automation E
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,prometheus&theme=dark" />
 
-<br/>
-
 **Additional Tools & Technologies**
 
 <img src="https://img.shields.io/badge/Bytewax-Event%20Processing-00A6A6?style=for-the-badge" />
@@ -68,6 +65,7 @@ Currently looking for **entry-level Python / Backend Development or Automation E
 <img src="https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 
 **AI-Assisted Development & Research**
 
@@ -87,7 +85,7 @@ I primarily work with Python for backend development, API building, automation, 
 
 ### 📡 StreamForge — Real-Time IoT Telemetry Pipeline
 
-<img src="https://skillicons.dev/icons?i=python,docker,kafka,react" />
+<img src="https://skillicons.dev/icons?i=python,docker,kafka,react&theme=dark" />
 
 </div>
 
@@ -103,9 +101,12 @@ A real-time truck temperature monitoring pipeline built using Python, Apache Kaf
 - Managed Docker/Kafka infrastructure, team coordination, and end-to-end integration.
 - Tested state recovery and processing continuity.
 
-<badge>~16,900 events/sec</badge>
+<p align="center">
+  <img src="https://img.shields.io/badge/Throughput-~16%2C900%20events%2Fsec-00FF41?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Processing-5--Minute%20Windows-00F0FF?style=for-the-badge&labelColor=0D1117" />
+</p>
 
-Local benchmark throughput.
+<sub>Throughput measured in local benchmarks.</sub>
 
 ---
 
@@ -113,7 +114,7 @@ Local benchmark throughput.
 
 ### 🧩 WASMBox — Browser-Based Python Sandbox
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" />
 
 </div>
 
@@ -128,16 +129,28 @@ A browser-based Python execution environment designed to run untrusted code usin
 - Used Docker-based testing to validate runtime behaviour and recovery.
 - Led team integration, reviewed pull requests, and coordinated end-to-end validation.
 
-<badge>103 backend tests passing</badge>
-<badge>20/20 timeout-recovery cycles</badge>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Tests-103%20Passing-00FF41?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Timeout%20Recovery-20%2F20-00F0FF?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<div align="center">
 
 <a href="https://github.com/prathamesh-shirdhankar/wasmbox-sandbox">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 ---
 
+<div align="center">
+
 ### 🤖 Backend AI Engineering — FlyRank AI
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&theme=dark" />
+
+</div>
 
 Worked as a Backend AI Engineering Intern, building backend applications using Python, FastAPI, and Node.js.
 
@@ -147,8 +160,6 @@ Worked as a Backend AI Engineering Intern, building backend applications using P
 - A web scraper with rate limiting and site-policy checks.
 - An LLM-powered message classification API.
 - A multi-tenant usage metering and billing system integrated with Stripe as a capstone project.
-
-</div>
 
 ---
 
@@ -278,11 +289,11 @@ Worked as a Backend AI Engineering Intern, building backend applications using P
 <div align="center">
 
 <a href="https://github.com/prathamesh-shirdhankar">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" />
 </a>
 
 <a href="https://linkedin.com/in/prathameshshirdhankar/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" />
 </a>
 
 <br/><br/>
@@ -300,4 +311,3 @@ $ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
 <p align="center">
   <sub>Prathamesh Shirdhankar · Building, breaking, debugging, learning.</sub>
 </p>
-````
