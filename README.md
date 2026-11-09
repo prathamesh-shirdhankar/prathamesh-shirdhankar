@@ -210,29 +210,6 @@ Worked as a Backend AI Engineering Intern, building backend applications using P
 
 ---
 
-## 📈 `> tail -f /var/log/commits.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-shirdhankar&bg_color=0D1117&color=00FF41&line=00F0FF&point=FF00E5&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%"/>
-
-</div>
-
----
-
-## 🐍 `> ./snake.exe --eat=contributions`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathamesh-shirdhankar/prathamesh-shirdhankar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathamesh-shirdhankar/prathamesh-shirdhankar/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/prathamesh-shirdhankar/prathamesh-shirdhankar/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
 
 ## 🎯 `> cat current_quests.log`
 
