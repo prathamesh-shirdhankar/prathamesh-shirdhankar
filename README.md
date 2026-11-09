@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <br/>
 
@@ -6,14 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+Prathamesh+Shirdhankar+%F0%9F%91%8B;Python+Developer+%7C+Backend+Engineering;Building+Systems%2C+Not+Just+Writing+Code" alt="Typing SVG" />
 </a>
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=prathamesh-shirdhankar&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge&labelColor=0D1117" alt="views"/>
 <br/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aprathamesh-shirdhankar%2Btype%3Apr&query=%24.total_count&label=PRS+OPENED&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="PRs opened"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aprathamesh-shirdhankar%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=PRS+MERGED&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="PRs merged"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dreviewed-by%3Aprathamesh-shirdhankar%2Btype%3Apr%2B-author%3Aprathamesh-shirdhankar&query=%24.total_count&label=PRS+REVIEWED&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="PRs reviewed"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Aprathamesh-shirdhankar&query=%24.total_count&label=COMMITS&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="Commits"/>
-</div>
 
+</div>
 ---
 
 ## 🐱 About Me
