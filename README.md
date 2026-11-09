@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aprathamesh-shirdhankar%2Btype%3Apr&query=%24.total_count&label=PRS+OPENED&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="PRs opened"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aprathamesh-shirdhankar%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=PRS+MERGED&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="PRs merged"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dreviewed-by%3Aprathamesh-shirdhankar%2Btype%3Apr%2B-author%3Aprathamesh-shirdhankar&query=%24.total_count&label=PRS+REVIEWED&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="PRs reviewed"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Aprathamesh-shirdhankar&query=%24.total_count&label=COMMITS&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="Commits"/>
+
 
 </div>
 ---
