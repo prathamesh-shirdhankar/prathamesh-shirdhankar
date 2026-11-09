@@ -3,22 +3,22 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+Prathamesh+Shirdhankar+%F0%9F%91%8B;Python+Developer+%7C+Backend+Engineering;Building+Systems%2C+Not+Just+Writing+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi,+I'm+Prathamesh+Shirdhankar;Python+Developer+%7C+Backend+Engineering;Building+Systems,+Not+Just+Writing+Code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=prathamesh-shirdhankar&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge&labelColor=0D1117" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=prathamesh-shirdhankar&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
 <br/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aprathamesh-shirdhankar%2Btype%3Apr&query=%24.total_count&label=PRS+OPENED&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="PRs opened"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aprathamesh-shirdhankar%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=PRS+MERGED&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="PRs merged"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dreviewed-by%3Aprathamesh-shirdhankar%2Btype%3Apr%2B-author%3Aprathamesh-shirdhankar&query=%24.total_count&label=PRS+REVIEWED&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="PRs reviewed"/>
 
-
 </div>
+
 ---
 
-## 🐱 About Me
+## About Me
 
 I'm an IT graduate and Python developer interested in backend engineering, distributed systems, automation, and secure code execution.
 
@@ -39,27 +39,27 @@ Currently looking for **entry-level Python / Backend Development or Automation E
 
 ---
 
-## ⚔️ `> cat inventory.txt` — Skill Tree
+## Technical Skills
 
 <div align="center">
 
-**🐍 Languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
-**🌐 Frameworks & Development**
+**Frameworks and Development**
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react&theme=dark" />
 
-**⚡ Distributed Systems & Infrastructure**
+**Distributed Systems and Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=kafka,docker,linux,git&theme=dark" />
 
-**🗄️ Databases & Observability**
+**Databases and Observability**
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,prometheus&theme=dark" />
 
-**Additional Tools & Technologies**
+**Additional Tools and Technologies**
 
 <img src="https://img.shields.io/badge/Bytewax-Event%20Processing-00A6A6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wasmtime-WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
@@ -69,7 +69,7 @@ Currently looking for **entry-level Python / Backend Development or Automation E
 <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 
-**AI-Assisted Development & Research**
+**AI-Assisted Development and Research**
 
 <img src="https://img.shields.io/badge/Claude-AI%20Assistant-D97757?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Claude%20Code-Development-D97757?style=for-the-badge" />
@@ -81,11 +81,11 @@ I primarily work with Python for backend development, API building, automation, 
 
 ---
 
-## 🚀 `> ls projects/` — Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 📡 StreamForge — Real-Time IoT Telemetry Pipeline
+### StreamForge: Real-Time IoT Telemetry Pipeline
 
 <img src="https://skillicons.dev/icons?i=python,docker,kafka,react&theme=dark" />
 
@@ -104,8 +104,8 @@ A real-time truck temperature monitoring pipeline built using Python, Apache Kaf
 - Tested state recovery and processing continuity.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Throughput-~16%2C900%20events%2Fsec-00FF41?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Processing-5--Minute%20Windows-00F0FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Throughput-~16%2C900%20events%2Fsec-1F6FEB?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Processing-5--Minute%20Windows-1F6FEB?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <sub>Throughput measured in local benchmarks.</sub>
@@ -114,7 +114,7 @@ A real-time truck temperature monitoring pipeline built using Python, Apache Kaf
 
 <div align="center">
 
-### 🧩 WASMBox — Browser-Based Python Sandbox
+### WASMBox: Browser-Based Python Sandbox
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" />
 
@@ -132,8 +132,8 @@ A browser-based Python execution environment designed to run untrusted code usin
 - Led team integration, reviewed pull requests, and coordinated end-to-end validation.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Tests-103%20Passing-00FF41?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Timeout%20Recovery-20%2F20-00F0FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Backend%20Tests-103%20Passing-1F6FEB?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Timeout%20Recovery-20%2F20-1F6FEB?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <div align="center">
@@ -148,7 +148,7 @@ A browser-based Python execution environment designed to run untrusted code usin
 
 <div align="center">
 
-### 🤖 Backend AI Engineering — FlyRank AI
+### Backend AI Engineering: FlyRank AI
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&theme=dark" />
 
@@ -165,16 +165,16 @@ Worked as a Backend AI Engineering Intern, building backend applications using P
 
 ---
 
-## 👨‍💻 `> cat experience.log` — Experience
+## Experience
 
-**Axlero Solutions — Python Development Intern**
+**Axlero Solutions: Python Development Intern**
 
 - Completed two backend engineering projects involving distributed data processing and secure code execution.
 - Selected to lead small engineering teams across both projects.
 - Assigned weekly tasks, reviewed pull requests, managed branch merges, and resolved integration issues.
 - Coordinated local end-to-end testing and validated integrated systems.
 
-**FlyRank AI — Backend AI Engineering Intern**
+**FlyRank AI: Backend AI Engineering Intern**
 
 - Built backend services using Python, FastAPI, and Node.js.
 - Worked on APIs, authentication, scraping, and LLM-based applications.
@@ -188,69 +188,54 @@ Worked as a Backend AI Engineering Intern, building backend applications using P
 
 ---
 
-## 📊 `> ./stats --player=prathamesh-shirdhankar`
+## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prathamesh-shirdhankar&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prathamesh-shirdhankar&show_icons=true&show=reviews,prs_merged&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D&ring_color=1F6FEB&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub stats" />
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prathamesh-shirdhankar&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prathamesh-shirdhankar&layout=compact&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&langs_count=8&custom_title=Top%20Languages" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=prathamesh-shirdhankar&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+<img src="https://streak-stats.demolab.com?user=prathamesh-shirdhankar&theme=dark&background=0D1117&border=30363D&ring=1F6FEB&fire=1F6FEB&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="Contribution streak" />
 
 </div>
 
 ---
 
-## 🏆 `> unlock --achievements`
+## Current Focus
+
+**Completed**
+
+- Python Development Internship at Axlero Solutions
+- Built a real-time IoT telemetry pipeline
+- Built a secure browser-based Python sandbox
+- Led engineering teams across backend projects
+
+**In progress**
+
+- Deepening Kafka and distributed systems knowledge
+- Exploring backend engineering and automation
+- Learning more about secure execution environments
+
+**Seeking**
+
+- Entry-level Python / Backend / Automation roles
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=prathamesh-shirdhankar&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-
-## 🎯 `> cat current_quests.log`
-
-```diff
-+ [COMPLETED] 🎓 Python Development Internship at Axlero Solutions
-+ [COMPLETED] 🚀 Built a real-time IoT telemetry pipeline
-+ [COMPLETED] 🧩 Built a secure browser-based Python sandbox
-+ [COMPLETED] 👨‍💻 Led engineering teams across backend projects
-! [ACTIVE]    ⚡ Deepening Kafka & distributed systems knowledge
-! [ACTIVE]    🐍 Exploring backend engineering and automation
-! [ACTIVE]    🔐 Learning more about secure execution environments
-! [SEEKING]   💼 Entry-level Python / Backend / Automation roles
-```
-
-<div align="center">
-
-| 🕹️ Area | Current Focus |
+| Area | Current Focus |
 |:--|:--|
-| 🐍 Python | Backend APIs, automation, testing |
-| ⚡ Distributed Systems | Kafka, Bytewax, event-time processing |
-| 🔐 Runtime Engineering | WebAssembly, WASI, Wasmtime |
-| 🐳 Infrastructure | Docker, monitoring, integration |
-| 🧠 AI | AI-assisted development and intelligent systems |
+| Python | Backend APIs, automation, testing |
+| Distributed Systems | Kafka, Bytewax, event-time processing |
+| Runtime Engineering | WebAssembly, WASI, Wasmtime |
+| Infrastructure | Docker, monitoring, integration |
+| AI | AI-assisted development and intelligent systems |
 
 </div>
 
 ---
 
-## 🎧 `> now_playing --mode=focus`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-
-</div>
-
----
-
-## 🌌 `> interests --list`
+## Interests
 
 <div align="center">
 
@@ -263,30 +248,20 @@ Worked as a Backend AI Engineering Intern, building backend applications using P
 
 ---
 
-## 📡 `> ping --connect`
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/prathamesh-shirdhankar">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://linkedin.com/in/prathameshshirdhankar/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<br/><br/>
-
-```bash
-$ echo "There is no spoon. Only data." | lolcat
-$ python3 -c "print('Hello, World! 🧠')"
-$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
 
 </div>
 
 <p align="center">
-  <sub>Prathamesh Shirdhankar · Building, breaking, debugging, learning.</sub>
+  <sub>Prathamesh Shirdhankar | Building, breaking, debugging, learning.</sub>
 </p>
