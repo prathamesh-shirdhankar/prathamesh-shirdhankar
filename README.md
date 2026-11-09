@@ -1,234 +1,303 @@
-<h1 align="center">Prathamesh Shirdhankar</h1>
+````markdown
+<div align="center">
 
-<h3 align="center">Python Developer · Backend · Distributed Systems</h3>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/prathamesh-shirdhankar">
-    <img src="https://img.shields.io/github/followers/prathamesh-shirdhankar?style=flat-square&label=Followers" />
-  </a>
-  <a href="https://github.com/prathamesh-shirdhankar?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/prathameshshirdhankar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+Prathamesh+Shirdhankar+%F0%9F%91%8B;Python+Developer+%7C+Backend+Engineering;Building+Systems%2C+Not+Just+Writing+Code" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Building%20with%20Python&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=prathamesh-shirdhankar&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
+<img src="https://img.shields.io/github/followers/prathamesh-shirdhankar?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/prathamesh-shirdhankar?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
+
+</div>
 
 ---
 
-## About
+## 🐱 About Me
 
-I'm a Python developer interested in building backend systems, working with distributed data, and exploring how modern developer infrastructure works.
+I'm an IT graduate and Python developer interested in backend engineering, distributed systems, automation, and secure code execution.
 
-Currently exploring:
+I recently completed my internship as a **Python Development Intern at Axlero Solutions**, where I joined as an intern and was later selected to lead small engineering teams across two backend projects.
 
-- Python backend development
-- Event-driven and distributed systems
-- WebAssembly
-- AI and intelligent systems
-- Observability and infrastructure
+I enjoy learning by building things, testing them under different conditions, debugging what breaks, and understanding how things work underneath.
 
-I prefer learning by **building, testing, breaking, and understanding how things work underneath.**
+My journey started with frontend development and gradually moved toward backend systems, infrastructure, and data-intensive applications.
 
----
+**A few things I've worked on:**
 
-## Technology Stack
+- Built a real-time IoT truck telemetry pipeline using Python, Apache Kafka, and Bytewax.
+- Developed a browser-based Python sandbox using MicroPython WASI, Wasmtime, and FastAPI.
+- Worked on backend APIs, web scraping, authentication, and LLM-powered applications.
+- Led engineering teams, reviewed pull requests, managed branch integration, and coordinated end-to-end testing.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,kafka,postgres,prometheus,git,linux,js&perline=8" />
-</p>
-
-<p align="center">
-  <sub>Python · Docker · Apache Kafka · PostgreSQL · Prometheus · Git · Linux · JavaScript</sub>
-</p>
+Currently looking for **entry-level Python / Backend Development or Automation Engineering roles**.
 
 ---
 
-## Featured Projects
+## ⚔️ `> cat inventory.txt` — Skill Tree
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<h3 align="center">WASMBox</h3>
+**🐍 Languages**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="55"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
-<p align="center">
-Exploring the interaction between Python and WebAssembly through hands-on experimentation and development.
-</p>
+**🌐 Frameworks & Development**
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react&theme=dark" />
+
+**⚡ Distributed Systems & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=kafka,docker,linux,git&theme=dark" />
+
+**🗄️ Databases & Observability**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,prometheus&theme=dark" />
+
+<br/>
+
+**Additional Tools & Technologies**
+
+<img src="https://img.shields.io/badge/Bytewax-Event%20Processing-00A6A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wasmtime-WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+<img src="https://img.shields.io/badge/MicroPython-WASI-2B5797?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+**AI-Assisted Development & Research**
+
+<img src="https://img.shields.io/badge/Claude-AI%20Assistant-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Claude%20Code-Development-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NotebookLM-Research-4285F4?style=for-the-badge" />
+
+</div>
+
+I primarily work with Python for backend development, API building, automation, and data processing. I also use AI-assisted development and research tools as part of my everyday workflow.
+
+---
+
+## 🚀 `> ls projects/` — Featured Projects
+
+<div align="center">
+
+### 📡 StreamForge — Real-Time IoT Telemetry Pipeline
+
+<img src="https://skillicons.dev/icons?i=python,docker,kafka,react" />
+
+</div>
+
+A real-time truck temperature monitoring pipeline built using Python, Apache Kafka, and Bytewax.
+
+**What I worked on:**
+
+- Built a Kafka-to-Bytewax streaming pipeline for truck telemetry.
+- Implemented JSON parsing, validation, and invalid temperature filtering.
+- Processed events using 5-minute event-time tumbling windows.
+- Calculated average temperatures for individual trucks.
+- Integrated Prometheus monitoring and a React dashboard.
+- Managed Docker/Kafka infrastructure, team coordination, and end-to-end integration.
+- Tested state recovery and processing continuity.
+
+<badge>~16,900 events/sec</badge>
+
+Local benchmark throughput.
+
+---
+
+<div align="center">
+
+### 🧩 WASMBox — Browser-Based Python Sandbox
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker" />
+
+</div>
+
+A browser-based Python execution environment designed to run untrusted code using MicroPython WASI on Wasmtime, with a FastAPI backend.
+
+**What I worked on:**
+
+- Worked on runtime and backend integration.
+- Integrated MicroPython WASI execution through Wasmtime.
+- Implemented execution constraints around time, fuel, and memory.
+- Tested timeout handling and memory-exhaustion scenarios.
+- Used Docker-based testing to validate runtime behaviour and recovery.
+- Led team integration, reviewed pull requests, and coordinated end-to-end validation.
+
+<badge>103 backend tests passing</badge>
+<badge>20/20 timeout-recovery cycles</badge>
+
 <a href="https://github.com/prathamesh-shirdhankar/wasmbox-sandbox">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
-</td>
+---
 
-<td width="50%" valign="top">
+### 🤖 Backend AI Engineering — FlyRank AI
 
-<h3 align="center">More Projects</h3>
+Worked as a Backend AI Engineering Intern, building backend applications using Python, FastAPI, and Node.js.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-</p>
+**Work included:**
 
-<p align="center">
-Explore my repositories covering Python, backend development, infrastructure, data processing, and experimentation.
-</p>
+- CRUD APIs and authentication systems.
+- A web scraper with rate limiting and site-policy checks.
+- An LLM-powered message classification API.
+- A multi-tenant usage metering and billing system integrated with Stripe as a capstone project.
 
-<p align="center">
-<a href="https://github.com/prathamesh-shirdhankar?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github"/>
+</div>
+
+---
+
+## 👨‍💻 `> cat experience.log` — Experience
+
+**Axlero Solutions — Python Development Intern**
+
+- Completed two backend engineering projects involving distributed data processing and secure code execution.
+- Selected to lead small engineering teams across both projects.
+- Assigned weekly tasks, reviewed pull requests, managed branch merges, and resolved integration issues.
+- Coordinated local end-to-end testing and validated integrated systems.
+
+**FlyRank AI — Backend AI Engineering Intern**
+
+- Built backend services using Python, FastAPI, and Node.js.
+- Worked on APIs, authentication, scraping, and LLM-based applications.
+- Developed a multi-tenant metering and billing capstone with Stripe.
+
+**Earlier Experience**
+
+- CSRBOX (IBM SkillsBuild): Frontend and research work.
+- Freelance: Developed a WordPress website for a construction company.
+- College Hackathon: Secured 1st place.
+
+---
+
+## 📊 `> ./stats --player=prathamesh-shirdhankar`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prathamesh-shirdhankar&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prathamesh-shirdhankar&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+
+<img src="https://streak-stats.demolab.com?user=prathamesh-shirdhankar&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+
+</div>
+
+---
+
+## 🏆 `> unlock --achievements`
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=prathamesh-shirdhankar&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 `> tail -f /var/log/commits.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-shirdhankar&bg_color=0D1117&color=00FF41&line=00F0FF&point=FF00E5&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 `> ./snake.exe --eat=contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathamesh-shirdhankar/prathamesh-shirdhankar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathamesh-shirdhankar/prathamesh-shirdhankar/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/prathamesh-shirdhankar/prathamesh-shirdhankar/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 `> cat current_quests.log`
+
+```diff
++ [COMPLETED] 🎓 Python Development Internship at Axlero Solutions
++ [COMPLETED] 🚀 Built a real-time IoT telemetry pipeline
++ [COMPLETED] 🧩 Built a secure browser-based Python sandbox
++ [COMPLETED] 👨‍💻 Led engineering teams across backend projects
+! [ACTIVE]    ⚡ Deepening Kafka & distributed systems knowledge
+! [ACTIVE]    🐍 Exploring backend engineering and automation
+! [ACTIVE]    🔐 Learning more about secure execution environments
+! [SEEKING]   💼 Entry-level Python / Backend / Automation roles
+```
+
+<div align="center">
+
+| 🕹️ Area | Current Focus |
+|:--|:--|
+| 🐍 Python | Backend APIs, automation, testing |
+| ⚡ Distributed Systems | Kafka, Bytewax, event-time processing |
+| 🔐 Runtime Engineering | WebAssembly, WASI, Wasmtime |
+| 🐳 Infrastructure | Docker, monitoring, integration |
+| 🧠 AI | AI-assisted development and intelligent systems |
+
+</div>
+
+---
+
+## 🎧 `> now_playing --mode=focus`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
+
+</div>
+
+---
+
+## 🌌 `> interests --list`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Geopolitics-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Formula%201-111827?style=for-the-badge" />
+
+</div>
+
+---
+
+## 📡 `> ping --connect`
+
+<div align="center">
+
+<a href="https://github.com/prathamesh-shirdhankar">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" />
 </a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=prathamesh-shirdhankar&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-shirdhankar&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-  />
-</p>
-
----
-
-## Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=prathamesh-shirdhankar&hide_border=true&theme=transparent"
-    height="180"
-  />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-shirdhankar&bg_color=ffffff00&color=2563eb&line=2563eb&point=1d4ed8&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    width="95%"
-  />
-</p>
-
----
-
-## GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=prathamesh-shirdhankar&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"
-    width="95%"
-  />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/prathamesh-shirdhankar/prathamesh-shirdhankar/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Graph"
-    width="95%"
-  />
-</p>
-
----
-
-## Currently Exploring
-
-<table align="center">
-<tr>
-<td align="center" width="160">
-
-<img src="https://skillicons.dev/icons?i=python" width="60"/>
-
-<br><br>
-<b>Python</b>
-
-</td>
-
-<td align="center" width="160">
-
-<img src="https://skillicons.dev/icons?i=wasm" width="60"/>
-
-<br><br>
-<b>WebAssembly</b>
-
-</td>
-
-<td align="center" width="160">
-
-<img src="https://skillicons.dev/icons?i=kafka" width="60"/>
-
-<br><br>
-<b>Distributed Systems</b>
-
-</td>
-
-<td align="center" width="160">
-
-<img src="https://skillicons.dev/icons?i=ai" width="60"/>
-
-<br><br>
-<b>AI</b>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Geopolitics-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Formula%201-111827?style=for-the-badge" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
 
 <a href="https://linkedin.com/in/prathameshshirdhankar/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/prathamesh-shirdhankar">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" />
 </a>
 
-</p>
+<br/><br/>
 
-<br>
+```bash
+$ echo "There is no spoon. Only data." | lolcat
+$ python3 -c "print('Hello, World! 🧠')"
+$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
+  <sub>Prathamesh Shirdhankar · Building, breaking, debugging, learning.</sub>
 </p>
+````
